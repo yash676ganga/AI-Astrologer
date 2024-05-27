@@ -11,8 +11,10 @@ By integrating these aspects, AI-Astrologer aims to deliver a unique user experi
 Getting Started
 Prerequisites:
 
-Python (version X.X.X or higher) - https://www.python.org/downloads/
+Python  - https://www.python.org/
+
 Kerykeion library -https://pypi.org/project/kerykeion/ (pip install kerykeion)
+
 Gemini AI - https://ai.google.dev/ (pip install google.generativeai)
 
 Installation:
